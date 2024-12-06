@@ -25,13 +25,14 @@
 # 🛠 Tech Stack
 
 # 💾 ERD
+<img src="https://github.com/user-attachments/assets/e884ff3f-c978-4257-8755-0c44c8190b34"> 
 
-# <img src="https://github.com/user-attachments/assets/b043ab14-fb35-4e59-b26c-6f6c31a613ad" alt="Swagger icon" width="24"/> Swagger
+# <img src="https://github.com/user-attachments/assets/b043ab14-fb35-4e59-b26c-6f6c31a613ad" alt="Swagger icon" width="30"/> Swagger
 
 
 # 📂 Directory Structure
 
-# <img src="https://github.com/user-attachments/assets/6f430ebb-b28d-4898-9295-bb7f0b0aa785" alt=".ENV icon" width="24"/> Environment
+# <img src="https://github.com/user-attachments/assets/6f430ebb-b28d-4898-9295-bb7f0b0aa785" alt=".ENV icon" width="28"/> Environment
 
 # 🚀 How to Start
 
