@@ -39,7 +39,53 @@ https://docs.google.com/spreadsheets/d/1U215_Mel70mujcQGGkk4Bi_EC_e49PN1USf27GLK
 
 # 🌈 WEB DEMO
 
+
+  <table>
+    <tr>
+      <th>온보딩 페이지</th>
+      <th>회원가입/로그인 페이지</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/c51aa558-18d5-41ca-8764-ea820eb450bd" width="475">
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/d11aa254-d70f-4b10-82ac-38626ed2946e" width="475">
+      </td>
+    </tr>
+    <tr>
+      <th>메인 주식 차트 페이지</th>
+      <th>주식 상세 페이지</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/358fb2e5-085c-43a4-b4fe-f82e33d86328" width="475">
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/d11aa254-d70f-4b10-82ac-38626ed2946e" width="475">
+      </td>
+    </tr>
+    <tr>
+      <th>알림 페이지</th>
+      <th>마이 페이지</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/358fb2e5-085c-43a4-b4fe-f82e33d86328" width="475">
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/d11aa254-d70f-4b10-82ac-38626ed2946e" width="475">
+      </td>
+    </tr>
+  </table>
+
+
+
+
+
+
 # 🌈 APP DEMO
+
 
 # ⚙ System Architecture
 
